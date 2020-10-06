@@ -1,8 +1,7 @@
 {
   "police": "https://twitter.com",
   "keyword": "usa,washinton",
-  "key_ADid": "3347511713222",
-"key_ADid": "8249835622",
+  "key_ADid": "8249835622x",
   "key_ADunit": "5856602169268294",
   "keyB_AD": "4310590616,3529676198",
   "keyI_AD": "6745182260,8365385692,7052304026",
@@ -17,7 +16,7 @@
  "keyB_UN": "banner",
   "keyI_UN": "video",
  
-  "compactAds": "UN,FA,AD,MO",
-  "timerNext": "0:00:10",
-  "viersonsda": "10"
+  "compactAds": "UN,FA,AD",
+  "timerNext": "0:01:00",
+  "viersonsda": "9"
 }
